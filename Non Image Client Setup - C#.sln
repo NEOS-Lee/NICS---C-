@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Non Image Client Setup - C#", "Non Image Client Setup - C#.csproj", "{6BA5BF11-B343-4CAC-89B5-DFA60AAE2380}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BA5BF11-B343-4CAC-89B5-DFA60AAE2380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BA5BF11-B343-4CAC-89B5-DFA60AAE2380}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BA5BF11-B343-4CAC-89B5-DFA60AAE2380}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BA5BF11-B343-4CAC-89B5-DFA60AAE2380}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAAC4050-B6A2-48AD-A852-0D2B077F7D93}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\lfurman\source\repos\Non Image Client Setup - C#\bin\Debug\net6.0\Non Image Client Setup - C#.exe
+C:\Users\lfurman\source\repos\Non Image Client Setup - C#\bin\Debug\net6.0\Non Image Client Setup - C#.deps.json
+C:\Users\lfurman\source\repos\Non Image Client Setup - C#\bin\Debug\net6.0\Non Image Client Setup - C#.runtimeconfig.json
+C:\Users\lfurman\source\repos\Non Image Client Setup - C#\bin\Debug\net6.0\Non Image Client Setup - C#.dll
+C:\Users\lfurman\source\repos\Non Image Client Setup - C#\bin\Debug\net6.0\Non Image Client Setup - C#.pdb
+C:\Users\lfurman\source\repos\Non Image Client Setup - C#\obj\Debug\net6.0\Non Image Client Setup - C#.csproj.AssemblyReference.cache
+C:\Users\lfurman\source\repos\Non Image Client Setup - C#\obj\Debug\net6.0\Non Image Client Setup - C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lfurman\source\repos\Non Image Client Setup - C#\obj\Debug\net6.0\Non Image Client Setup - C#.AssemblyInfoInputs.cache
+C:\Users\lfurman\source\repos\Non Image Client Setup - C#\obj\Debug\net6.0\Non Image Client Setup - C#.AssemblyInfo.cs
+C:\Users\lfurman\source\repos\Non Image Client Setup - C#\obj\Debug\net6.0\Non Image Client Setup - C#.csproj.CoreCompileInputs.cache
+C:\Users\lfurman\source\repos\Non Image Client Setup - C#\obj\Debug\net6.0\Non Image Client Setup - C#.dll
+C:\Users\lfurman\source\repos\Non Image Client Setup - C#\obj\Debug\net6.0\refint\Non Image Client Setup - C#.dll
+C:\Users\lfurman\source\repos\Non Image Client Setup - C#\obj\Debug\net6.0\Non Image Client Setup - C#.pdb
+C:\Users\lfurman\source\repos\Non Image Client Setup - C#\obj\Debug\net6.0\Non Image Client Setup - C#.genruntimeconfig.cache
+C:\Users\lfurman\source\repos\Non Image Client Setup - C#\obj\Debug\net6.0\ref\Non Image Client Setup - C#.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Non Image Client Setup - C#/1.0.0": {
+        "runtime": {
+          "Non Image Client Setup - C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Non Image Client Setup - C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
